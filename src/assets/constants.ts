@@ -1,7 +1,7 @@
 export const VIDEO_OPTIONS = [
   { 
     id: "1", 
-    src: "/videos/trump.mp4", 
+    src: "/videos/lotr.mp4", 
     label: "Trump's Oval Office Address", 
     description: `In a January 8, 2019, prime-time Oval Office address, President Donald Trump described the situation 
     at the U.S.-Mexico border as a "humanitarian and security crisis". He urged Congress to approve $5.7 billion in 
@@ -19,3 +19,4 @@ export const VIDEO_OPTIONS = [
 
 
 // to convert YT to mp4s: https://turboscribe.ai/downloader/youtube/mp4
+// https://aws.amazon.com/rekognition/pricing/
